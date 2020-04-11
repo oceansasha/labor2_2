@@ -21,7 +21,7 @@ int main() {
 			file >> A[i][j];
 
 	file.close(); 
-	cout << "Вектор а:" << endl;
+	cout << "Массив а:" << endl;
 
 	for (int i = 0; i < m; i++)	{
 		cout << endl;
